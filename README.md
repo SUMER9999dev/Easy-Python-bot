@@ -1,4 +1,4 @@
-# Easy-Python-bot<h1 align="center">
+<h1 align="center">
     Easy python bot 🐍
 </br>
 </h1>
